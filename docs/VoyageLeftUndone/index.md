@@ -12,3 +12,4 @@ comments: true
 ## 内容列表
 
 - [Markdown不完全指北](markdown/mymarkdown.md)
+- [Re:从0开始的llm-universe](llm/index.md)
