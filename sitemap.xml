@@ -2,66 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://nano-elc.github.io/myweb/</loc>
-         <lastmod>2026-02-07</lastmod>
+         <lastmod>2026-02-20</lastmod>
     </url>
     <url>
          <loc>https://nano-elc.github.io/myweb/NOTE/</loc>
-         <lastmod>2026-02-07</lastmod>
+         <lastmod>2026-02-20</lastmod>
     </url>
     <url>
          <loc>https://nano-elc.github.io/myweb/NOTE/ElecBasic/</loc>
-         <lastmod>2026-02-07</lastmod>
+         <lastmod>2026-02-20</lastmod>
     </url>
     <url>
          <loc>https://nano-elc.github.io/myweb/NOTE/ElecLab1/</loc>
-         <lastmod>2026-02-07</lastmod>
+         <lastmod>2026-02-20</lastmod>
     </url>
     <url>
          <loc>https://nano-elc.github.io/myweb/NOTE/Math/</loc>
-         <lastmod>2026-02-07</lastmod>
+         <lastmod>2026-02-20</lastmod>
     </url>
     <url>
          <loc>https://nano-elc.github.io/myweb/NOTE/Math/Analysis/Analysis/</loc>
-         <lastmod>2026-02-07</lastmod>
+         <lastmod>2026-02-20</lastmod>
     </url>
     <url>
          <loc>https://nano-elc.github.io/myweb/NOTE/Math/Analysis/Analysis_pdf/</loc>
-         <lastmod>2026-02-07</lastmod>
+         <lastmod>2026-02-20</lastmod>
     </url>
     <url>
          <loc>https://nano-elc.github.io/myweb/NOTE/Physics/</loc>
-         <lastmod>2026-02-07</lastmod>
+         <lastmod>2026-02-20</lastmod>
     </url>
     <url>
          <loc>https://nano-elc.github.io/myweb/NOTE/Physics/Generalphysics2/Generalphysics1/</loc>
-         <lastmod>2026-02-07</lastmod>
+         <lastmod>2026-02-20</lastmod>
     </url>
     <url>
          <loc>https://nano-elc.github.io/myweb/NOTE/Physics/Generalphysics2/Generalphysics2/</loc>
-         <lastmod>2026-02-07</lastmod>
+         <lastmod>2026-02-20</lastmod>
     </url>
     <url>
          <loc>https://nano-elc.github.io/myweb/Reading/</loc>
-         <lastmod>2026-02-07</lastmod>
+         <lastmod>2026-02-20</lastmod>
     </url>
     <url>
          <loc>https://nano-elc.github.io/myweb/Reading/The%20Boundaries%20of%20Intelligence/The%20Boundaries%20of%20Intelligence/</loc>
-         <lastmod>2026-02-07</lastmod>
+         <lastmod>2026-02-20</lastmod>
     </url>
     <url>
          <loc>https://nano-elc.github.io/myweb/VoyageLeftUndone/</loc>
-         <lastmod>2026-02-07</lastmod>
+         <lastmod>2026-02-20</lastmod>
+    </url>
+    <url>
+         <loc>https://nano-elc.github.io/myweb/VoyageLeftUndone/llm/</loc>
+         <lastmod>2026-02-20</lastmod>
+    </url>
+    <url>
+         <loc>https://nano-elc.github.io/myweb/VoyageLeftUndone/llm/llm-universe-1/</loc>
+         <lastmod>2026-02-20</lastmod>
+    </url>
+    <url>
+         <loc>https://nano-elc.github.io/myweb/VoyageLeftUndone/llm/llm-universe-2/</loc>
+         <lastmod>2026-02-20</lastmod>
+    </url>
+    <url>
+         <loc>https://nano-elc.github.io/myweb/VoyageLeftUndone/llm/llm-universe-3/</loc>
+         <lastmod>2026-02-20</lastmod>
     </url>
     <url>
          <loc>https://nano-elc.github.io/myweb/VoyageLeftUndone/markdown/mymarkdown/</loc>
-         <lastmod>2026-02-07</lastmod>
+         <lastmod>2026-02-20</lastmod>
     </url>
     <url>
          <loc>https://nano-elc.github.io/myweb/VoyageLeftUndone/simplegit/branch/</loc>
-         <lastmod>2026-02-07</lastmod>
+         <lastmod>2026-02-20</lastmod>
     </url>
     <url>
          <loc>https://nano-elc.github.io/myweb/blog/</loc>
-         <lastmod>2026-02-07</lastmod>
+         <lastmod>2026-02-20</lastmod>
     </url>
 </urlset>
